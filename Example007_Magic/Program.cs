@@ -3,8 +3,8 @@ Console.SetCursorPosition(10, 4);
 Console.WriteLine("+");
 
 int xa = 1, ya = 1,
-    xb = 32, yb = 32,
-    xc = 40, yc = 30;
+    xb = 36, yb = 36,
+    xc = 50, yc = 50;
 
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
